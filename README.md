@@ -1,6 +1,6 @@
 # FMRIvis
 
-FMRI Data Visualization with Julia in Minutes
+fMRI Data Visualization with Julia in Minutes
 
 [Post](http://www.ekinakyurek.com/fmri-visualization/)
 [nextjournal](https://nextjournal.com/ekinakyurek/fmri-visualization-with-julia)
